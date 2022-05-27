@@ -26,7 +26,7 @@ This is a reference repository for James
 
 # Projects
 
-* [Terraform](https://(https://gitlab.com/jamesearl341/terraform) - Provision infrastructure in AWS and configure with Ansible (CI/CD, Terraform, Ansible)
+* [Terraform](https://gitlab.com/jamesearl341/terraform) - Provision infrastructure in AWS and configure with Ansible (CI/CD, Terraform, Ansible)
 * [Kubernetes](https://github.com/insidus341/kubernetes) - Install and configure Kubernetes on a 3 machine cluster using Ansible. Provision deployments for an Nginx App and uses Kibana/Grafana for monitoring
 * [Spotify Chord Finder]() - Using the Spotify API, read which song is playing and then display the guitar chords/tabs from ultimate-guitar on a Webpage. Uses MariaDB to store the Spotify authentication tokens and a Nginx as a reverse proxy to handle requests. (Docker, Docker Compose, Python, Reverse Proxy, Nginx, MariaDB, 
 * [DevNet Ansible](https://github.com/insidus341/devnet-ansible) - Configure and monitor a network of CSR1Kv's using Ansible
