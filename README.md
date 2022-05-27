@@ -17,4 +17,14 @@ This is a reference repository for James
 
 ## Project 1
 
+Description for Project 1
+
+### What I Learnt
+
+### Future Development
+
 ## Project 2
+
+### What I Learnt
+
+### Future Development
