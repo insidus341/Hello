@@ -28,7 +28,7 @@ This is a reference repository for James
 
 # Projects
 
-* [AWS TerraKube](https://gitlab.com/jamesearl341/aws_terrakube) - Using GitLabs CI/CD implementation, have Terraform provision a Kubernetes cluster in AWS 
+* [AWS TerraKube](https://gitlab.com/jamesearl341/aws_terrakube) - Using GitLabs CI/CD implementation, have Terraform provision a Kubernetes cluster in AWS (CI/CD, Terraform, Kubernetes, AWS)
 * [Terraform](https://gitlab.com/jamesearl341/terraform) - Provision infrastructure in AWS and configure with Ansible (CI/CD, Terraform, Ansible)
 * [ORLY Book Generator](https://gitlab.com/jamesearl341/orly-book) - A O'Reilly paradoy book generator hosted on [orly.jamesearl.co.uk](https://orly.jamesearl.co.uk)
 * [Spotify Chord Finder](https://chordifysong.com/) - Using the Spotify API, read which song is playing and then display the guitar chords/tabs from guitaretab.com on a Webpage. Uses MariaDB to store the Spotify authentication tokens, MongoDB to store the tabs as a document, Redis as a task queue and Nginx as a reverse proxy to handle requests. (Docker, Docker Compose, Python, Reverse Proxy, Nginx, MariaDB, MongoDB, Redis. Hosted at [chordifysong.com](https://chordifysong.com/)
